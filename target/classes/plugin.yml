@@ -1,0 +1,9 @@
+name: FireworkMaker
+version: '1.0-SNAPSHOT'
+main: me.padej.fireworkMaker.FireworkMaker
+api-version: '1.20'
+prefix: PaintBattle
+commands:
+  firework:
+    description: Opens the firework generator GUI.
+    usage: /firework
